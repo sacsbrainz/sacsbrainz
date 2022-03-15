@@ -35,7 +35,6 @@
 
 <p><img src="https://wakatime.com/share/@sacsbrainz/c1743cc5-41ba-4b61-b3ea-0f9b12a70139.svg" alt="sacs stats" height="400"></p>
 
-<p><img src="https://wakatime.com/share/@sacsbrainz/294eb386-3777-4cc8-bff2-7bd0136acc31.svg" alt="sacs Editor" height="400"></p>
 
 <p><img src="https://wakatime.com/share/@sacsbrainz/8011ce41-f995-4db9-b6f6-5caa6504e161.svg" alt="sacs OS" height="400"></p>
 
