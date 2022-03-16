@@ -39,7 +39,7 @@
 <p><img src="https://wakatime.com/share/@sacsbrainz/8011ce41-f995-4db9-b6f6-5caa6504e161.svg" alt="sacs OS" height="400"></p>
 
 
-<a href="https://twitter.com/ogabossj">
+<a href="https://twitter.com/sacsbrainz">
   <img align="right" alt="Sacsbrainz | Twitter" width="21px" src="https://raw.githubusercontent.com/sacsbrainz/sacsbrainz/master/assets/twitter.svg" />
 </a>
 <a href="https://codesandbox.io/u/sacsbrainz">
