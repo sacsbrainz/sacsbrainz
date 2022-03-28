@@ -29,7 +29,6 @@
 <a href="https://github.com/sacsbrainz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sacsbrainz&show_icons=true&include_all_commits=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10&hide_border=true" alt="Sacsbrainz's github stats" /></a> 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sacsbrainz&langs_count=10&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)](https://github.com/anuraghazra/github-readme-stats)
 
 [![wakatime](https://wakatime.com/badge/user/7d9fb201-77dd-4cbf-9bf6-d51a814ad51e.svg)](https://wakatime.com/@7d9fb201-77dd-4cbf-9bf6-d51a814ad51e)
 
