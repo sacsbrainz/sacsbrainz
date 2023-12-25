@@ -1,11 +1,10 @@
-# Hey there, I'm Solomon - AKA sacsbrainz! 👋 
+# Hey there, I'm Solomon - AKA sacsbrainz 👋 
 
 ## I'm a Developer, Gamer, and Gadget Enthusiast!!
 
 - 🌱 Currently leveling up my skills in everything! and exploring new technologies! 🚀
-- 🥅 Goals for 2023: Master low-level languages like C++ and ZIG
-- ⚡ Fun fact: I'm a pro at slaying virtual dragons and saving the world in video games
-- And yes i'm a member of Red Cross
+- 🥅 Goals for 2024: Master low-level language ZIG lang and quit web development.
+- ⚡ Fun fact: I love video games.
 
 **Languages and Tools I Use:**  
 
